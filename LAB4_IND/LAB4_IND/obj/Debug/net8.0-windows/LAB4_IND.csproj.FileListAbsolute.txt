@@ -1,0 +1,16 @@
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\bin\Debug\net8.0-windows\LAB4_IND.exe
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\bin\Debug\net8.0-windows\LAB4_IND.deps.json
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\bin\Debug\net8.0-windows\LAB4_IND.runtimeconfig.json
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\bin\Debug\net8.0-windows\LAB4_IND.dll
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\bin\Debug\net8.0-windows\LAB4_IND.pdb
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.Form1.resources
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.csproj.GenerateResource.cache
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.GeneratedMSBuildEditorConfig.editorconfig
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.AssemblyInfoInputs.cache
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.AssemblyInfo.cs
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.csproj.CoreCompileInputs.cache
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.dll
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\refint\LAB4_IND.dll
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.pdb
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\LAB4_IND.genruntimeconfig.cache
+E:\Моё\Учёба\КГ\LAB4\LAB4_IND\LAB4_IND\obj\Debug\net8.0-windows\ref\LAB4_IND.dll
